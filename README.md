@@ -13,8 +13,11 @@ This repo contains Dhruval Bhatt's response papers and term papers from Universi
 
 ## Table of Contents
 
-- **[Response Papers](response_files):** *Contains the response papers to all topics* 
+- **[Response Papers](response_files):** *Contains folders to all topics, including prompts* 
   - **[Ethical Guidelines for Autonomous Vehicle](response_files/1_Ethics/DhruvalBhatt_Response1.pdf)**
   - **[Algorithmic Fairness in Recidivism](response_files/2_Algorithm%20Fairness/DhruvalBhatt_Response2.pdf)**
-
+  - **[Role of Government Agencies in Data Driven Welfare](response_files/3_Inequality%20and%20Injustice/DhruvalBhatt_Response3.pdf)**
+  - **[Using Amazon Ring for Policing Efforts](response_files/4_Policing/DhruvalBhatt_Response4.pdf)**
+  
+  
 - **[Term Paper](term_paper):** *Contains Final Draft of Term Paper*
