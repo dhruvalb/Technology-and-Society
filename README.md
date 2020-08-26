@@ -13,7 +13,7 @@ This repo contains Dhruval Bhatt's response papers and term papers from Universi
 
 ## Table of Contents
 
-- **[Response Papers](response_files):** *Contains the response papers to all topics** 
+- **[Response Papers](response_files):** *Contains the response papers to all topics* 
   - **[Ethical Guidelines for Autonomous Vehicle](response_files/1_Ethics/DhruvalBhatt_Response1.pdf)**
   - **[Algorithmic Fairness in Recidivism](response_files/2_Algorithm Fairness/DhruvalBhatt_Response2.pdf)**
 
