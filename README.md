@@ -22,4 +22,4 @@ This repo contains Dhruval Bhatt's response papers and term papers from Universi
   - **[Ethics in Academic Publishing](response_files/7_AcademicEthics/DhruvalBhatt_Response7.pdf)** *Topic: Academia*
   - **[Mandatory Contact Tracing during COVID](response_files/8_Medicine/DhruvalBhatt_Response8.pdf)** *Topic: Medicine (Coronavirus Edition)*
   
-- **[Ethics and Efficacy of Big Data Tools in Human Resource Management](term_paper/DhruvalBhatt_BigData_TermPaper.pdf):** *Final Draft of Term Paper*
+- **[Ethics and Efficacy of Big Data Tools in Human Resource Management](term_paper/DhruvalBhatt_BigData_TermPaper.pdf)** *Term Paper*
