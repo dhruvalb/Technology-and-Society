@@ -12,15 +12,14 @@ This repo contains Dhruval Bhatt's response papers and term papers from Universi
 **Term:** Spring 2020
 
 ## Table of Contents
-
 - **[Response Papers](response_files):** *Contains folders to all topics, including prompts* 
-  - **[Ethical Guidelines for Autonomous Vehicle](response_files/1_Ethics/DhruvalBhatt_Response1.pdf)**
-  - **[Algorithmic Fairness in Recidivism](response_files/2_Algorithm%20Fairness/DhruvalBhatt_Response2.pdf)**
-  - **[Role of Government Agencies in Data Driven Welfare](response_files/3_Inequality%20and%20Injustice/DhruvalBhatt_Response3.pdf)**
-  - **[Using Amazon Ring for Policing Efforts](response_files/4_Policing/DhruvalBhatt_Response4.pdf)**
-  - **[Regulating Fake News and Deep Fakes](response_files/5_Misinformation/DhruvalBhatt_Response5.pdf)**  
-  - **[The Cost and Gains of the ‘Freedom Dividend’](response_files/6_Work%20and%20Labor/DhruvalBhatt_Response6.pdf)**
-  - **[Ethics in Academic Publishing](response_files/7_AcademicEthics/DhruvalBhatt_Response7.pdf)**
-  - **[Mandatory Contact Tracing during COVID](response_files/8_Medicine/DhruvalBhatt_Response8.pdf)**
+  - **[Ethical Guidelines for Autonomous Vehicle](response_files/1_Ethics/DhruvalBhatt_Response1.pdf)** *Topic: Ethical Frameworks*
+  - **[Algorithmic Fairness in Recidivism](response_files/2_Algorithm%20Fairness/DhruvalBhatt_Response2.pdf)** *Topic: AI and Algorithms*
+  - **[Role of Government Agencies in Data Driven Welfare](response_files/3_Inequality%20and%20Injustice/DhruvalBhatt_Response3.pdf)** *Topic: Inquality, Justice, and Human Rights*
+  - **[Using Amazon Ring for Policing Efforts](response_files/4_Policing/DhruvalBhatt_Response4.pdf)** *Topic: Policing and Surveillance*
+  - **[Regulating Fake News and Deep Fakes](response_files/5_Misinformation/DhruvalBhatt_Response5.pdf)** *Topic: Misinformation and Social Media* 
+  - **[The Cost and Gains of the ‘Freedom Dividend’](response_files/6_Work%20and%20Labor/DhruvalBhatt_Response6.pdf)** *Topic: Work and labor*
+  - **[Ethics in Academic Publishing](response_files/7_AcademicEthics/DhruvalBhatt_Response7.pdf)** *Topic: Academia*
+  - **[Mandatory Contact Tracing during COVID](response_files/8_Medicine/DhruvalBhatt_Response8.pdf)** *Topic: Medicine (Coronavirus Edition)*
   
 - **[Ethics and Efficacy of Big Data Tools in Human Resource Management](term_paper/DhruvalBhatt_BigData_TermPaper.pdf):** *Final Draft of Term Paper*
